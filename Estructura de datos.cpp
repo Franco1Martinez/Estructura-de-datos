@@ -1,3 +1,5 @@
+// Desarrollando trabajo colaborativo en C++-Poyecto //
+
 #include <iostream>
 #include <string>
 #include <fstream>
@@ -196,7 +198,7 @@ class ListaProcesos
 	            return;
 	        }
 	
-	        cout << "\n =====================================================================\n";
+	        cout << " \n=====================================================================\n";
 	        cout << "                       GESTOR DE PROCESOS (LISTA)                     \n";
 	        cout << " =====================================================================\n";
 	        cout << left << setw(8) << "ID"
